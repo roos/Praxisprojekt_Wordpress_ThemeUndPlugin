@@ -1,0 +1,27 @@
+/*
+Theme Name: IIG Theme
+Author: Andreas Roos
+Template: construction
+Version: 1.0
+*/
+
+#header-404 {
+  background-image:none
+}
+
+.trennlinieTitel {
+  width: 150px;
+	height: 5px;
+	background: grey;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+p.zeilenabstand {
+  line-height: 25px !important;
+}
+
+.main-footer {
+  display: none;
+}

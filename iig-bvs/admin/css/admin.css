@@ -1,0 +1,58 @@
+/* edit */
+.textRight {
+  text-align: right;
+}
+
+.reihe {
+  width: 30px;
+  margin: 0px;
+  display: inline-block;
+}
+
+/* faq */
+.faq {
+   border: 0px;
+   border-spacing: 0px;
+   border-color: grey;
+}
+
+.faq tr th {
+  text-align: left;
+}
+
+.faqTablePadding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+}
+
+.faqTableBorder {
+  border-bottom: 1px solid;
+}
+
+/* overview */
+.overview {
+   border: 0px;
+   border-spacing: 0px;
+   border-color: grey;
+}
+
+.divTitle {
+  text-align: left;
+}
+
+.honorar, .overview td:last-child {
+  text-align: right;
+}
+
+.overview td:first-child {
+  padding-right: 50px;
+}
+
+.overview td {
+  border-bottom: 1px solid;
+}
+
+.overview p {
+  margin: 0px;
+}
